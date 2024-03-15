@@ -30,6 +30,7 @@ ol {
     border-left: 5px solid #4f3631;
     border-top: 5px solid #4f3631;
     border-bottom: 5px solid #4f3631;
+    padding-left: 10px;
 }
 
 .ingredients {
