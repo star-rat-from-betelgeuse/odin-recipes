@@ -11,18 +11,24 @@ h1 {
 
 h3 {
     font-size: 30px;
+    margin-bottom: 0px ;
 }
 
 p {
     font-size: 18px;
+    margin-top: 5px ;
+    line-height: 1.4;
 }
 
 ul {
     font-size: 18px;
+    line-height: 1.4;
 }
 
 ol {
     font-size: 18px;
+    margin-top: 5px ;
+    line-height: 1.4;
 }
 
 .heading {
